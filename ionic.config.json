@@ -1,0 +1,7 @@
+{
+  "name": "messenger-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
