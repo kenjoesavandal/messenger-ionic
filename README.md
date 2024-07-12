@@ -1,1 +1,1 @@
-# Messenger Mobile using Ionic-capacitor (poc for getstream video calling)
+# Messenger Mobile using Ionic-capacitor (poc for video calling using getstream)
